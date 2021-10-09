@@ -1,0 +1,3 @@
+[submodule "synopses"]
+	path = synopses
+	url = https://github.com/l2aggron/slurmio-school-dev-k8s-notes
