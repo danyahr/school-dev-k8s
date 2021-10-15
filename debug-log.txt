@@ -1,7 +1,0 @@
-From https://github.com/l2aggron/slurmio-school-dev-k8s-notes
-   482b7e0..62c7a0b  main       -> origin/main
-Updating 482b7e0..62c7a0b
-Fast-forward
- lesson 4.md | 143 +++++++++++++++++++++++++++++++++++++++++++++++++++++++-----
- 1 file changed, 132 insertions(+), 11 deletions(-)
-Already up to date.
