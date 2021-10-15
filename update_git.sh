@@ -17,8 +17,8 @@ cd synopses/
 git pull
 cd ..
 git fetch upstream
-git merge upstream/master
+git merge upstream/main
 git add --all
 git commit --allow-empty -m "Update forks"
-git push
+git push origin main
 
